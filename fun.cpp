@@ -4,5 +4,6 @@ void output(){
     while(i<10){
         std::cout<<i;
         i++;
+        i++;
     }
 }
